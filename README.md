@@ -51,8 +51,7 @@ $
 
 Выразим из уравнения явно T
 
-$\Large
-\begin{aligned}
+$\Large\begin{aligned}
 D'(u_1^{-T}+u_2^{-T}) &= u_1u_1^{-T} + u_2u_2^{-T} \\
 D'(u_1^{-T}+u_2^{-T}) &= u_1u_1^{-T} + u_2u_2^{-T} |: u_1^{-T} \\
 D'\left(1+\left(\frac{u_1}{u_2}\right)^{T}\right) &= u_1 + u_2\left(\frac{u_1}{u_2}\right)^{T} \\
@@ -62,8 +61,7 @@ D'+D'\left(\frac{u_1}{u_2}\right)^{T} &= u_1 + u_2\left(\frac{u_1}{u_2}\right)^{
 \left(\frac{u_1}{u_2}\right)^{T} &= \frac{u_1 - D'}{D'-u_2} \\
 T\ln\left(\frac{u_1}{u_2}\right) &= \ln\frac{u_1 - D'}{D'-u_2} \\
 T &= \frac{\ln\frac{u_1 - D'}{D'-u_2}}{\ln\left(\frac{u_1}{u_2}\right)} \\
-\end{aligned}
-$
+\end{aligned}$
 
 
 Упрощение для $S$:
